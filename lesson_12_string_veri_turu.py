@@ -46,27 +46,27 @@
 
 """Stringlerde arama komutu in ve not in"""
 
-text = "The best languages in life are free!"
+# text = "The best languages in life are free!"
 
-print("free" in text) # eğer text içinde free varsa True değerini yoksa False değerini verir
-print("expensive" in text)
+# print("free" in text) # eğer text içinde free varsa True değerini yoksa False değerini verir
+# print("expensive" in text)
 
-search = "best" # bir variable içine alıp da arama yapabiliriz
-print(search in text)
+# search = "best" # bir variable içine alıp da arama yapabiliriz
+# print(search in text)
 
-if search in text:  # döngülerde de kullanabiliriz
-    print("Yes, 'best' is present") 
+# if search in text:  # döngülerde de kullanabiliriz
+#     print("Yes, 'best' is present") 
 
-search2= "expensive"
+# search2= "expensive"
 
-if search2 in text:  # if sadece True değeri için çalışır bu yüzden bu ifade yazdırılmaz
-    print("Yes, 'expensive' is present")  
+# if search2 in text:  # if sadece True değeri için çalışır bu yüzden bu ifade yazdırılmaz
+#     print("Yes, 'expensive' is present")  
 
-if search not in text:
-    print("Yes, 'best' is present") 
+# if search not in text:
+#     print("Yes, 'best' is present") 
 
-if search2 not in text:  # in var mı? sorusunu ararken not in  yok mu? sorusunu arar
-    print("No, 'expensive' is not present")
+# if search2 not in text:  # in var mı? sorusunu ararken not in  yok mu? sorusunu arar
+#     print("No, 'expensive' is not present")
 
-print(search2 not in text) # True değerini döndürür çünkü yok mu sorusunun cevabı evet yoktur yani 1 yani true dur
-print(search not in text) # False değerini döndürür çünkü yok mu sorusunun cevabı hayır vardır yani 0 yani false
+# print(search2 not in text) # True değerini döndürür çünkü yok mu sorusunun cevabı evet yoktur yani 1 yani true dur
+# print(search not in text) # False değerini döndürür çünkü yok mu sorusunun cevabı hayır vardır yani 0 yani false
