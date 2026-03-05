@@ -3,12 +3,12 @@
 x = 7 # x is of type int
 y = "python" # y is of type string
 
-# bu değişkenler ramde ilgili yerlerde tutulmasını sağlar
+# bu değişkenler ramde ilgili yerlerde tutulmasını sağlar (mantığı önemli)
 
 print(x)
 print(y)
 
-# = işareti bir atama operatörüdür
+# = işareti bir atama operatörüdür 
 
 
 
