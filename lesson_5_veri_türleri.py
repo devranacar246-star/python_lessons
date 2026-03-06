@@ -23,7 +23,7 @@ print("isim:",name,"yaş:",age,"kilo:",weight,"karmaşık sayı:",comp)
 print(my_list)
 print(my_tuple)
 print(my_range)
-print(*my_range) # * işareti ile bütğn aralık yazdırılabilir
+print(*my_range) # * işareti ile bütün aralık yazdırılabilir
 print(my_dict)
 print(my_set)
 print(my_frozen)
