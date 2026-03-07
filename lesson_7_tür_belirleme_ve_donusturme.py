@@ -53,7 +53,7 @@ my_set= set(("skoda","nissan","volvo")) # fonkisyonun içinde bir parantez daha 
 my_frozen = frozenset (("skoda","nissan","volvo")) # fonkisyonun içinde bir parantez daha olması gerektiğini unutma
 
 print(my_set)
-print(type(my_frozen))
+print(type(my_set))
 
 print(my_frozen)
 print(type(my_frozen))

@@ -15,7 +15,7 @@ print(b)
 
 pi = 3.14159
 
-radius_of_circle = float(input("Yarıçarp: ")) #inpu kullanıcıdan girdi alınmasını sağlar
+radius_of_circle = float(input("Yarıçarp: ")) #input kullanıcıdan girdi alınmasını sağlar
 
 area_of_circle = pi*radius_of_circle*radius_of_circle
 
