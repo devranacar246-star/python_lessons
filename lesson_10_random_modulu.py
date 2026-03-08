@@ -28,18 +28,18 @@ import random
 
 # myList = ["skoda","bmw","audi","nissan","toyota","ford"]
 
-# print(random.sample(myList, k=3)) #sample shuffledaki gibi listeyi değiştirmez. burdaki 2. parametre kaç tane seriden elemanı rastgele alacağını belirler.
+# print(random.sample(myList,k=3)) #sample shuffledaki gibi listeyi değiştirmez. burdaki 2. parametre kaç tane seriden elemanı rastgele alacağını belirler.
 
 
 
 
-#print(random.random()) # random metodu 0 ile 1 arasında rastgele ondalıklı bir sayı döndürür.
+# print(random.random()) # random metodu 0 ile 1 arasında rastgele ondalıklı bir sayı döndürür.
 
 
 
 
-# print(random.uniform(30,70)) # uniform verilen aralıklar arasında rastgele nir ondalıklı sayı döndüren metotdur
+# print(random.uniform(30,70)) # uniform verilen aralıklar arasında rastgele bir ondalıklı sayı döndüren metotdur
 
 
 
-print(random.triangular(30,70,68)) # triangular da uniform gibidir ancak burada 3. bir parametre eklenebilir ve bu 3. parametre ağırlığın hangi tarafta olması gerektiğini belirtir. eğer 3. parametre girilmezse eşit olasılıkla sayo döndürür
+# print(random.triangular(30,70,68)) # triangular da uniform gibidir ancak burada 3. bir parametre eklenebilir ve bu 3. parametre ağırlığın hangi tarafta olması gerektiğini belirtir. eğer 3. parametre girilmezse eşit olasılıkla sayı döndürür

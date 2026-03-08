@@ -30,9 +30,9 @@
 
 """Stringlerde döngü kullanımı"""
 
-# text = "Python is weird"
-# for x in text:
-#     print(x)
+text = "Python is weird"
+for x in text:
+     print(x)
 
 
 

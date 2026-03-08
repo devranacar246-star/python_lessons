@@ -1,4 +1,4 @@
-x = int ("7") # içerisinde sadece sayı bulunan bir string float yya da integer a çevrilebilir.
+x = int ("7") # içerisinde sadece sayı bulunan bir string float ya da integer a çevrilebilir.
 
 print(x)
 print(type(x))
@@ -10,9 +10,9 @@ print(type(x))
 # print(random.random()) # bu şekilde bırakılırsa rastgele sayı bilgisiyarın sistem saatine göre verilir ve hep değişir
 
 """
-Varsayılan değeri sistem saatinden çekmesinin sebebi zaman saniye bazında sürekli değişmesidir. 
-Bu yüzden seed değerei sürekli değişir ve her seferinde farklı bir sayı üretilir.
-Ancak biz seed değerini atayınca bir sabir sayı üzerinden hep aynı rastgele sayıyı üretiyor.
+Varsayılan değeri sistem saatinden çekmesinin sebebi zamanın saniye bazında sürekli değişmesidir. 
+Bu yüzden seed değeri sürekli değişir ve her seferinde farklı bir sayı üretilir.
+Ancak biz seed değerini atayınca bir sabit sayı üzerinden hep aynı rastgele sayıyı üretilir.
 """
 
 # import random
