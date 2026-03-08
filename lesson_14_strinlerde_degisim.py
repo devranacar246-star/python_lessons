@@ -10,7 +10,7 @@
 
 """strip metodu"""
 
-#white space'lere karşı kourunmak için strip metodu kullanılır 
+# white space'lere karşı kourunmak için strip metodu kullanılır 
 
 # text = "    python is doing well     "
 # print(text)

@@ -10,7 +10,7 @@
 
 """\n karakteri"""
 
-# text = "İyilik\niyidir" # \n karakterinden sonra boşluk kullanmak metinlerin aynı hizada alt alta gelmemesine neden olacak
+# text = "İyilik\niyidir" # \n karakterinden sonra boşluk kullanmak metinlerin aynı hizada alt alta gelememesine neden olacak
 # print(text)
 
 

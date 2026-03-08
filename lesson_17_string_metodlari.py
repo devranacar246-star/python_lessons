@@ -62,11 +62,11 @@
 
 # bir stringdeki bütün karakterler büyük ise bize True değerinin döndürülmesini sağlar
 
-# text = "HELLO PYTHON "
+# text = "HELLO PYTHON"
 # result = text.isupper() # True
 
 # if(result):
-#      print("tüm harfleriniz büyük harf")
+#     print("tüm harfleriniz büyük harf")
 # else:
 #     print("tüm harfleriniz büyük harf değil")
 
